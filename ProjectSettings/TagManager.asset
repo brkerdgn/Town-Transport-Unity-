@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - Waypoint
+  - Car Spawner
+  - Fuel
+  - AutoRepair
+  - TaxiStationBarrier
+  - TaxiArea
+  - AtmArea
+  - TaxiStatinUI
+  - Pedestrian
+  - TaxiStation
+  - Barrier
+  - Level
+  - Client
+  - Speedometer
+  - Client Spawner
+  - Money
+  - Environment
+  - Gallery
+  - Scene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - gidis
+  - trafik
+  - sidewalks
+  - minimap
+  - floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
